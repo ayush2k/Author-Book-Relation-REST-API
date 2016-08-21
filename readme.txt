@@ -1,9 +1,5 @@
 Readme
 
-Team Members
-Ayush Gupta
-Pankhi Prasher
-
 Dependencies
 1. express
 2. mongoose
